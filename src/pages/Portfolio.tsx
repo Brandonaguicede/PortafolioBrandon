@@ -20,7 +20,7 @@ import { PHOTO } from "../assets/photo";
 import nestIcon from "../icon/498-4989583_nestjs-logo-hd-png-download.png";
 import apiIcon from "../icon/api.png";
 import cSharpIcon from "../icon/c-sharp.png";
-import githubIcon from "../icon/social.png";
+import githubIcon from "../icon/github_git_icon_145985.png";
 import instagramIcon from "../icon/iconfinder-social-media-applications-3instagram-4102579_113804.png";
 import linkedinIcon from "../icon/linkedin.png";
 import mysqlIcon from "../icon/mysql-database.png";
@@ -147,8 +147,8 @@ const copy = {
     },
     about: {
       eyebrow: "Sobre mí",
-      title: "Transformando ideas",
-      titleAccent: "en soluciones web",
+      title: "Desarrollador Full Stack",
+      titleAccent: "en formación",
       p1: "Soy estudiante de tercer año de Ingeniería en Sistemas de Información en la Universidad Nacional de Costa Rica. Me enfoco en el desarrollo de aplicaciones web completas, combinando interfaces modernas, lógica backend, bases de datos y buenas prácticas de arquitectura.",
       p2: "Tengo experiencia trabajando con tecnologías",
       p2End: "y bases de datos como",
@@ -220,8 +220,8 @@ const copy = {
     },
     about: {
       eyebrow: "About",
-      title: "Turning ideas",
-      titleAccent: "into web solutions",
+      title: "Full Stack Developer",
+      titleAccent: "in training",
       p1: "I am a third-year Information Systems Engineering student at Universidad Nacional de Costa Rica. I focus on full web application development, combining modern interfaces, backend logic, databases, and solid architecture practices.",
       p2: "I have experience working with",
       p2End: "and databases such as",
