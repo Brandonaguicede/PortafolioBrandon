@@ -663,7 +663,7 @@ export default function Portfolio() {
               <a href="mailto:brandon.aguirre.cedeno@est.una.ac.cr" style={{ display: "flex", alignItems: "center", gap: 10, border: "1px solid rgba(56,189,248,0.35)", color: "#e0f2fe", fontWeight: 700, padding: "12px 24px", borderRadius: 50, fontSize: 15, textDecoration: "none", background: "rgba(56,189,248,0.08)" }}>
                 <Mail size={18} /> Email
               </a>
-              <a href="https://wa.me/85325525" target="_blank" rel="noreferrer" style={{ display: "flex", alignItems: "center", gap: 10, border: "1px solid rgba(37,211,102,0.35)", color: "#d1fae5", fontWeight: 700, padding: "12px 24px", borderRadius: 50, fontSize: 15, textDecoration: "none", background: "rgba(37,211,102,0.08)" }}>
+              <a href="https://wa.me/50685325552" target="_blank" rel="noreferrer" style={{ display: "flex", alignItems: "center", gap: 10, border: "1px solid rgba(37,211,102,0.35)", color: "#d1fae5", fontWeight: 700, padding: "12px 24px", borderRadius: 50, fontSize: 15, textDecoration: "none", background: "rgba(37,211,102,0.08)" }}>
                 <img src={whatsappIcon} alt="" style={{ width: 20, height: 20, objectFit: "contain" }} /> WhatsApp
               </a>
               <a href="https://www.instagram.com/brandon_aguirrec/" target="_blank" rel="noreferrer" style={{ display: "flex", alignItems: "center", gap: 10, border: "1px solid rgba(236,72,153,0.35)", color: "#fce7f3", fontWeight: 700, padding: "12px 24px", borderRadius: 50, fontSize: 15, textDecoration: "none", background: "rgba(236,72,153,0.08)" }}>
