@@ -62,8 +62,8 @@ const projects = [
     title: "Landing Page Profesional",
     description:
       "Sitio web moderno y responsivo orientado a la presentación de servicios, marca personal o negocio. Incluye secciones informativas, diseño adaptable a dispositivos móviles, llamadas a la acción y estructura optimizada para una navegación clara y profesional.",
-    tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "Landing Page"],
-    github: "https://brandonaguicede.github.io/Cabanas-la-Reserva/",
+    tags: ["React", "TypeScript", "Responsive Design", "Landing Page"],
+    github: "https://cabanas-la-reserva.vercel.app/",
     icon: "globe",
   },
 ];
